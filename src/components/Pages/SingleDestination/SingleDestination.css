@@ -1,0 +1,33 @@
+.singledestination{
+    padding: 2rem;
+}
+
+.singledestination-title>h2{
+    font-size: 2.5rem;
+}
+
+.singledestination-card{
+    display: flex;
+    justify-content: space-between;
+    gap: 2rem;
+}
+
+.singledestination-img{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.singledestination-img>img{
+    width: 100%;
+}
+
+.singledestination-content>p{
+    text-align: left;
+}
+
+.singledestination-content>p>span{
+    font-weight: 700;
+    margin-right: 5px;
+}
